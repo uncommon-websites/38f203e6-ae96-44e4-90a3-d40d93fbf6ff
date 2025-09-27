@@ -32,31 +32,30 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Sofia Martinez",
+			position: "VP Marketing",
+			company: "GrowthCo",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We went from zero to profitable ads in under 48 hours. Peter saved us weeks and helped cut initial test budgets by half.",
+			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "David Chen",
+			position: "Marketing Director",
+			company: "LaunchPad",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"No more digging through dashboards. Peter surfaces what's working so we can make confident decisions faster.",
+			image: "/generated/image-professional-headshot-of-a-successful-as.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Amara Johnson",
+			position: "Head of Growth",
+			company: "ScaleUp",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Hiring freelancers was hit-or-miss. With Peter, we cut out the delays and errors—our CAC is down 27%.",
+			image: "/generated/image-professional-headshot-of-an-experienced-.webp"
 		}
 	]}
 />
